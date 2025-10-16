@@ -1,0 +1,16 @@
+{
+    "id": "e6ff8245-a75b-48aa-a813-2a758b2e958c",
+    "version": "1.0.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "Autotag Author",
+    "logo": "/logo.png",
+    "keywords": [],
+    "devTools": false,
+    "main": {
+        "serviceMode": false,
+        "url": "index.html",
+        "width": 640,
+        "height": 480
+    }
+}
